@@ -1,7 +1,23 @@
-Microsoft Visual SourceSafe é uma versão de sistema de controle em nível de arquivo que permite que vários tipos de organizações possam trabalhar em várias versões do projeto ao mesmo tempo.Essa funcionalidade é particularmente benéfica em um ambiente de desenvolvimento de software, onde ele é usado ao manter versões de código paralelas.Entretanto, o produto pode ser usado para manter arquivos para qualquer outro tipo de equipe. 
-Visual SourceSafe suporta desenvolvimento de plataforma híbrida permitindo edição colaborativa e compartilhamento de dados.Ele torna mais fácil para você controlar os aplicativos que usam módulos de código específico. 
+Microsoft Visual SourceSafe é uma versão de sistema de controle em nível de arquivo que permite que vários tipos de 
+organizações possam trabalhar em várias versões do projeto ao mesmo tempo.Essa funcionalidade é particularmente benéfica 
+em um ambiente de desenvolvimento de software, onde ele é usado ao manter versões de código paralelas.Entretanto, o
+produto pode ser usado para manter arquivos para qualquer outro tipo de equipe. 
+Visual SourceSafe suporta desenvolvimento de plataforma híbrida permitindo edição colaborativa e compartilhamento de dados.
+Ele torna mais fácil para você controlar os aplicativos que usam módulos de código específico. 
 
-  Cada vez mais, os desenvolvedores estão acessando funções do Visual SourceSafe de seus ambientes de desenvolvimento nos programas de terceiros.Visual SourceSafe pode ser integrados com Visual Studio e outras ferramentas de desenvolvimento, como o Microsoft Access, facilmente.Visual SourceSafe oferece suporte um ambiente desenvolvedor de várias maneiras, ao permitir:
+  Cada vez mais, os desenvolvedores estão acessando funções do Visual SourceSafe de seus ambientes de desenvolvimento nos 
+  programas de terceiros.Visual SourceSafe pode ser integrados com Visual Studio e outras ferramentas de desenvolvimento, 
+  como o Microsoft Access, facilmente.Visual SourceSafe oferece suporte um ambiente desenvolvedor de várias maneiras, ao 
+  permitir:
 Configuração de diretivas pasta para ativar cenários de desenvolvimento em grupo.
 Correções de Bugs
 Fácil transição para uma nova versão de um projeto existente
+
+Utilidades (tulio fez):
+É mais utilizada para o desenvolvimento de software pois muitas vezes ao corrigir ou atualizar um arquivo de um sistema 
+podemos ter gerado outros erros ou desarrumar o que estava correto. Nesse caso é utilizado para voltar a cópia de 
+segurança do arquivo. É possível várias pessoas editarem o mesmo arquivo e compor uma versão única utilizando o recurso 
+MERGE, identificando as diversas versões, autores e alterações. O SourceSafe possibilita rastrear todas as modificações 
+realizadas, linha a linha, nos arquivos gerenciados. É possível, também, colocar "marcos" de versões para indicar quais 
+arquivos compõe a "versão mais atual" a ser disponibilizada e permitir que os autores trabalhem nas alterações das versões
+posteriores sem interferir na versão entregue ao usuário.
