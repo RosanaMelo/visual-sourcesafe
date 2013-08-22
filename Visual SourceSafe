@@ -1,2 +1,7 @@
 Microsoft Visual SourceSafe é uma versão de sistema de controle em nível de arquivo que permite que vários tipos de organizações possam trabalhar em várias versões do projeto ao mesmo tempo.Essa funcionalidade é particularmente benéfica em um ambiente de desenvolvimento de software, onde ele é usado ao manter versões de código paralelas.Entretanto, o produto pode ser usado para manter arquivos para qualquer outro tipo de equipe. 
 Visual SourceSafe suporta desenvolvimento de plataforma híbrida permitindo edição colaborativa e compartilhamento de dados.Ele torna mais fácil para você controlar os aplicativos que usam módulos de código específico. 
+
+  Cada vez mais, os desenvolvedores estão acessando funções do Visual SourceSafe de seus ambientes de desenvolvimento nos programas de terceiros.Visual SourceSafe pode ser integrados com Visual Studio e outras ferramentas de desenvolvimento, como o Microsoft Access, facilmente.Visual SourceSafe oferece suporte um ambiente desenvolvedor de várias maneiras, ao permitir:
+Configuração de diretivas pasta para ativar cenários de desenvolvimento em grupo.
+Correções de Bugs
+Fácil transição para uma nova versão de um projeto existente
